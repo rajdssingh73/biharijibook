@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import moc from "../assets/images/banner-moc-1-2.png";
+import moc from "../assets/images/banner12.png";
 import MovingText from 'react-moving-text'
 
 const bannertwo = () => {
