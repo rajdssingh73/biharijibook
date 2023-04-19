@@ -18,19 +18,19 @@ const TESTIMONIALS_DATA = [
   {
     title: "Rakesh Kumar, Patna, Bihar - Winnings ₹1 Lakh",
     content:
-      "Mujhe bachpan se hi cricket ka shauk hai. Maine Biharijibook.com ke baare mein ek dost se suna. Abhi haal hi mein maine Biharijibook.com par 1 Lakh jeeta! Biharijibook.com ki sabse achhi baat yeh hai ki yeh aasaan, surakshit aur mazedaar hai!",
+      "Mujhe bachpan se hi cricket ka shauk hai. Maine Biharijibook.club ke baare mein ek dost se suna. Abhi haal hi mein maine Biharijibook.club par 1 Lakh jeeta! Biharijibook.club ki sabse achhi baat yeh hai ki yeh aasaan, surakshit aur mazedaar hai!",
     image: testimonialImage1
   },
   {
     title: "Sumit Kumar, Gaya, Bihar - Winnings ₹50,000",
     content:
-      " Biharijibook.com mere liye sabse best cricket fantasy website hai. Yahaan par har match aur series ke liye contests hote hain jo main follow karti hoon. Mujhe yahaan ke bonuses aur rewards bhi bahut pasand hain. Abhi haal hi mein maine unke mega contest mein ₹50,000 jeete. Mujhe bahut khushi hui. Thank you Biharijibook.com for this awesome opportunity! ",
+      " Biharijibook.club mere liye sabse best cricket fantasy website hai. Yahaan par har match aur series ke liye contests hote hain jo main follow karti hoon. Mujhe yahaan ke bonuses aur rewards bhi bahut pasand hain. Abhi haal hi mein maine unke mega contest mein ₹50,000 jeete. Mujhe bahut khushi hui. Thank you Biharijibook.club for this awesome opportunity! ",
     image: testimonialImage2
   },
   {
     title: "Anil Singh, Muzaffarpur, Bihar - Winnings ₹25,000",
     content:
-      "Main Biharijibook.com ka bada fan hoon. Yahaan par mujhe apni team banane aur dusron se compete karne ke liye bahut saare features aur options milte hain. Main hamesha kuch naya aur exciting khelne ko milta hoon unki website par. Mujhe unka fast withdrawal aur customer support bhi bahut achha lagta hai. Pichle hafte maine unke daily contest mein ₹25,000 jeete. Mujhe bahut acha laga. Thank you Biharijibook.com for rewarding your loyal users! ",
+      "Main Biharijibook.club ka bada fan hoon. Yahaan par mujhe apni team banane aur dusron se compete karne ke liye bahut saare features aur options milte hain. Main hamesha kuch naya aur exciting khelne ko milta hoon unki website par. Mujhe unka fast withdrawal aur customer support bhi bahut achha lagta hai. Pichle hafte maine unke daily contest mein ₹25,000 jeete. Mujhe bahut acha laga. Thank you Biharijibook.club for rewarding your loyal users! ",
     image: testimonialImage3
   },
   {
@@ -42,13 +42,13 @@ const TESTIMONIALS_DATA = [
   {
     title: "RK Jha, Varanasi, Uttar Pradesh - Winnings ₹2 Lakh",
     content:
-      "Agar aapko cricket khelna aur jeetna pasand hai toh Biharijibook.com aapke liye hai! Ye site hai sabse best cricket eSports fantasy site aur maine yahaan se 2 lakhs jeete hai. Is site ke saath khelna bohot easy hai aur payouts bhi fast hai. Mere khayal se, ye site bahut hi reliable aur entertaining hai.",
+      "Agar aapko cricket khelna aur jeetna pasand hai toh Biharijibook.club aapke liye hai! Ye site hai sabse best cricket eSports fantasy site aur maine yahaan se 2 lakhs jeete hai. Is site ke saath khelna bohot easy hai aur payouts bhi fast hai. Mere khayal se, ye site bahut hi reliable aur entertaining hai.",
     image: testimonialImage5
   },
   {
     title: "Venkat Krishna, Prayagraj, Uttar Pradesh - Winnings ₹75,000 ",
     content:
-      "Biharijibook.com is best site for cricket eSports fantasy. Maine yahan se 2 lakh jeete. Iska interface user-friendly hai aur game khelna bahut easy hai. Maine apne cricket knowledge se accha profit kiya. Isse behtar koi site nahi hai. Sabhi cricket fans ko Biharijibook.com join karna chahiye.",
+      "Biharijibook.club is best site for cricket eSports fantasy. Maine yahan se 2 lakh jeete. Iska interface user-friendly hai aur game khelna bahut easy hai. Maine apne cricket knowledge se accha profit kiya. Isse behtar koi site nahi hai. Sabhi cricket fans ko Biharijibook.club join karna chahiye.",
     image: testimonialImage6
   }
 ];

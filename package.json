@@ -20,7 +20,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "build": "next build ",
+    "start": "next start --openssl-legacy-provider"
   }
 }
