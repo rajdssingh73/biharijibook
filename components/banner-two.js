@@ -1,11 +1,16 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import moc from "../assets/images/banner12.png";
-import MovingText from 'react-moving-text'
+import MovingText from 'react-moving-text';
+import { gtag_report_conversion } from './utils/gtag';
 
 const bannertwo = () => {
   const openWhatsapp = () => {
     window.open('https://api.whatsapp.com/send?phone=917338253825&text=Need%20an%20ID%20just%20say%20Hi!', '_blank');
+    const handleDownloadClick = () => {
+      gtag_report_conversion('/');
+    };
+    handleDownloadClick()
   };
 
   const openInstagram = () => {
